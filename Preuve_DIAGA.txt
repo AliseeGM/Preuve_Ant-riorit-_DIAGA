@@ -1,0 +1,5 @@
+📌 Preuve d’antériorité du projet DIAGA
+📅 Date : 21 février 2024
+🔹 Hachage SHA256 du fichier original :
+759e4d2c5ec08d44190e8221f0074743f0f18f1060bed299ff71d658b29e81bc
+📂 Fichier sécurisé et déposé en plusieurs endroits pour validation.
